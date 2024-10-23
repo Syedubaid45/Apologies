@@ -70,7 +70,7 @@ button:hover {
 }
 
 #no {
-    position: absolute;
+    position: absolute; /* Allows the 'No' button to move around */
 }
 
 img#happy-picture {
