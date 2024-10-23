@@ -20,6 +20,7 @@ body {
     border-radius: 15px;
     box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
     max-width: 600px;
+    position: relative;
 }
 
 h1 {
@@ -70,4 +71,18 @@ button:hover {
 
 #no {
     position: absolute;
+}
+
+img#happy-picture {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.note {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 20px;
+    color: #FF6F61;
 }
